@@ -1,0 +1,5 @@
+## Pages
+- [Carrito de Compras - StyleHub](/cart): Tu carrito de compras está vacío. Explora nuestra colección de productos premium.
+- [Checkout - StyleHub](/checkout): Completa tu compra de forma segura y rápida. Múltiples métodos de pago disponibles.
+- [Productos - StyleHub | Relojes, Ropa y Zapatos Premium](/products): Explora nuestra amplia colección de relojes elegantes, ropa de moda y zapatos de calidad. Encuentra el estilo perfecto para ti.
+- [StyleHub - Tienda de Accesorios Personales Premium](/home): Descubre la mejor colección de relojes, ropa y zapatos de marcas premium. Envío gratis, garantía y atención 24/7.
